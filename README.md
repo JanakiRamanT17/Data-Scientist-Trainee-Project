@@ -1,16 +1,5 @@
-# Customer Segmentation using K-Means
+**- This repository contains analytics projects demonstrating skills in data preprocessing, exploratory analysis, statistical modeling, and machine learning. The goal is to transform raw data into actionable insights using Python based tools.**
 
-This project performs customer segmentation using clustering.
+**- Projects include end to end workflows covering data cleaning, feature engineering, visualization, model evaluation, and result interpretation. Emphasis is placed on writing clean, reproducible code and applying appropriate evaluation metrics to ensure reliable performance.**
 
-## Skills Used
-- Pandas
-- Seaborn
-- Matplotlib
-- K-Means
-- Elbow Method
-
-## Dataset
-Mall Customers dataset (200 customers)
-
-## Results
-5 customer segments identified.
+**- These projects reflect practical problem solving approaches commonly used in real-world business and data driven environments.**
