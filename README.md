@@ -84,5 +84,4 @@ These projects demonstrate hands-on experience in data analytics and machine lea
 
 **Janaki Raman T**
 
-[GitHub](https://github.com/JanakiRamanT17)
-[LinkedIn](https://www.linkedin.com/in/janakiraman17/)
+[GitHub](https://github.com/JanakiRamanT17)   ||  [LinkedIn](https://www.linkedin.com/in/janakiraman17/)
